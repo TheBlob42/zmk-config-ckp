@@ -53,7 +53,7 @@
 				// ------------------------------------------------------------------------------------------
 			bindings = <
 				&bt BT_CLR &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5 &trans &trans &trans &trans &trans &trans &kp INS &kp PRINTSCREEN
-				&trans &bt BT_PRV &bt BT_NXT &trans &trans &trans &trans &trans &trans &trans &trans &rgb_ug RGB_BRD &rgb_ug RBG_BRI &rgb_ug RGB_TOG
+				&trans &bt BT_PRV &bt BT_NXT &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &rgb_ug RGB_TOG
 				&trans    &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  &trans   &bootloader
 				&trans &kp C_BRI_DEC &kp C_BRI_INC &trans &trans &trans &trans &trans &trans &bl BL_DEC &bl BL_DEC  &bl BL_TOG
 				&trans &trans  &trans              &kp SPACE                            &trans   &trans   &trans &trans
